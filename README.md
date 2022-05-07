@@ -79,8 +79,8 @@ https://github.com/chrisknox97/ufos/blob/main/PNGs/without_search.png)
 
 * With One Search Filter
 
-<img align="left" src="https://github.com/chrisknox97/ufos/blob/main/PNGs/shape_search.png" width="400">
-<img align="right" src="(https://github.com/chrisknox97/ufos/blob/main/PNGs/state_search.png" width="400">
+<img src="https://github.com/chrisknox97/ufos/blob/main/PNGs/shape_search.png" width="400">
+<img src="(https://github.com/chrisknox97/ufos/blob/main/PNGs/state_search.png" width="400">
 
 * With Multiple Search Filters
 
