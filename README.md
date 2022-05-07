@@ -75,17 +75,17 @@ With this new functionality a user can now search on this website by simply typi
 
 * Without Search Filters
 
-https://github.com/chrisknox97/ufos/blob/main/PNGs/without_search.png)
+![Deliverable](https://github.com/chrisknox97/ufos/blob/main/PNGs/without_search.png)
 
 * With One Search Filter
 
-<img src="https://github.com/chrisknox97/ufos/blob/main/PNGs/shape_search.png" width="400">
-<img src="(https://github.com/chrisknox97/ufos/blob/main/PNGs/state_search.png" width="400">
+<img src="https://github.com/chrisknox97/ufos/blob/main/PNGs/shape_search.png" width="600">
+<img src="(https://github.com/chrisknox97/ufos/blob/main/PNGs/state_search.png" width="600">
 
 * With Multiple Search Filters
 
-![Deliverable4](https://github.com/chrisknox97/ufos/blob/main/PNGs/multi_search.png)
-![Deliverable5](https://github.com/chrisknox97/ufos/blob/main/PNGs/multi_search_2.png)
+<img src="https://github.com/chrisknox97/ufos/blob/main/PNGs/multi_search.png" width="600">
+<img src="https://github.com/chrisknox97/ufos/blob/main/PNGs/multi_search_2.png" width="600">
 
 ## Celestial Summary 
 
