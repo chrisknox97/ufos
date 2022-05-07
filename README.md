@@ -107,15 +107,15 @@ With this new functionality a user can now search on this website by simply typi
 
 While the new search filters and functionalities implemented represent an improvement for users; drawbacks remain for this design and a few notable issues are listed below:
 
-**Case Sensitive Input for Filters 
+**Case Sensitive Input for Filters**
 
 * Should a user wish to search for UFO sightings in the United States but type ``US`` instead of ``us`` they would receive zero results.
 
-**No Keywords
+**No Keywords**
 
 * Similarly, if a user search for ``American`` UFO sightings or UFO sightings in ``usa``, they would also receive zero results. 
 
-**Limited Date Search
+**Limited Date Search**
 
 * Another issue arises with the date parameter with the filter only allowing users to search for a specific day rather than a week or any other timeframe greater than daily. 
 
