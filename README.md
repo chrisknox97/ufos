@@ -20,17 +20,17 @@ First, we had to update our ``index.html`` file with our new search parameters: 
                     
                     <li class="list-group-item bg-dark">
                       <label for="state">Enter State</label>
-                      <input type="state" placeholder="nj" id="state" />
+                      <input type="text" placeholder="nj" id="state" />
                     </li>    
                     
                     <li class="list-group-item bg-dark">
                       <label for="country">Enter Country</label>
-                      <input type="country" placeholder="us" id="country" />
+                      <input type="text" placeholder="us" id="country" />
                     </li>  
                     
                     <li class="list-group-item bg-dark">
-                      <label for="date">Enter Shape</label>
-                      <input type="shape" placeholder="cigar" id="shape" />
+                      <label for="shape">Enter Shape</label>
+                      <input type="text" placeholder="cigar" id="shape" />
                     </li>  
 
 The HTML file where this portion of code exists can be found [here.](https://github.com/chrisknox97/ufos/blob/main/index.html)
