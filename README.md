@@ -2,11 +2,38 @@
 
 ## Otherworldly Overview
 
-### To create a website using ``HTML`` programming language that will allow its users to filter Unidentified Flying Object (UFO) sightings by the alleged sighting(s)' date, city, state, country, and shape. 
+### To create a website using ``HTML`` programming language that will allow its users to filter Unidentified Flying Object (UFO) sightings by the alleged sighting(s)' city, state, country, and shape. These search paremeters will be additional tool in narrowing down these sighting along with the website's previous date-based search functionality.
 
 ## Astral Analysis
 
-### Searching For Sightings
+### Creating A Working Search Filter
+
+* HTML File
+
+First, we had to update our ``index.html`` file  with our new search parameters: city, state, country, and shape.              
+                
+                    </li>
+                      <li class="list-group-item bg-dark">
+                        <label for="city">Enter City</label>
+                        <input type="text" placeholder="clinton" id="city" />
+                    </li>   
+                    
+                    <li class="list-group-item bg-dark">
+                      <label for="state">Enter State</label>
+                      <input type="state" placeholder="nj" id="state" />
+                    </li>    
+                    
+                    <li class="list-group-item bg-dark">
+                      <label for="country">Enter Country</label>
+                      <input type="country" placeholder="us" id="country" />
+                    </li>  
+                    
+                    <li class="list-group-item bg-dark">
+                      <label for="date">Enter Shape</label>
+                      <input type="shape" placeholder="cigar" id="shape" />
+                    </li>  
+
+* Java Script File
 
 Since our website would be handling five filters instead of just one, we first had to create a variable that could hold these filters as an object. 
 
@@ -42,7 +69,9 @@ Finally, we use our established function to create and display a new table conta
 
       filterTable();
 
-### Ultizing Search Functions
+### Searching for Sightings
+
+With this new functionality a user can now search 
 
 ## Celestial Summary 
 
