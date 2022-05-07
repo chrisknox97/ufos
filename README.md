@@ -33,6 +33,8 @@ First, we had to update our ``index.html`` file  with our new search parameters:
                       <input type="shape" placeholder="cigar" id="shape" />
                     </li>  
 
+The HTML file where this portion of code exists can be found here. 
+
 * Java Script File
 
 Since our website would be handling five filters instead of just one, we first had to create a variable that could hold these filters as an object. 
@@ -68,6 +70,8 @@ We then create an ``If-Else`` statement to add searched for values and their acc
 Finally, we use our established function to create and display a new table containing our new filtered values. 
 
       filterTable();
+      
+The JavaScript file where this portion of code exists can be found here.   
 
 ### Searching for Sightings
 
