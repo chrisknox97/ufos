@@ -33,7 +33,7 @@ First, we had to update our ``index.html`` file with our new search parameters: 
                       <input type="shape" placeholder="cigar" id="shape" />
                     </li>  
 
-The HTML file where this portion of code exists can be found here. 
+The HTML file where this portion of code exists can be found [here.](https://github.com/chrisknox97/ufos/blob/main/index.html)
 
 * Java Script File
 
@@ -71,7 +71,7 @@ Finally, we use our established function to create and display a new table conta
 
       filterTable();
       
-The JavaScript file where this portion of code exists can be found here.   
+The JavaScript file where this portion of code exists can be found [here.](https://github.com/chrisknox97/ufos/blob/main/app.js)
 
 ### Searching for Sightings
 
