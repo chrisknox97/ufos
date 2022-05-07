@@ -75,12 +75,12 @@ With this new functionality a user can now search on this website by simply typi
 
 * Without Search Filters
 
-![Deliverable](https://github.com/chrisknox97/ufos/blob/main/PNGs/without_search.png)
+https://github.com/chrisknox97/ufos/blob/main/PNGs/without_search.png)
 
 * With One Search Filter
 
-![Deliverable2](https://github.com/chrisknox97/ufos/blob/main/PNGs/shape_search.png)
-![Deliverable3](https://github.com/chrisknox97/ufos/blob/main/PNGs/state_search.png)
+<img align="left" src="https://github.com/chrisknox97/ufos/blob/main/PNGs/shape_search.png">
+<img align="right" src="(https://github.com/chrisknox97/ufos/blob/main/PNGs/state_search.png">
 
 * With Multiple Search Filters
 
