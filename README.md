@@ -128,5 +128,3 @@ As a result of these drawbacks, I would try to implement the following recommend
 * Allow For Ranges in Dates
 
 In addition, it might be helpful to allow users to see all the UFO sightings of each day plotted on a map; and/or include timestamps for sightings to track the alleged UFO'S trajectory across multiple areas. 
-![image](https://user-images.githubusercontent.com/99383875/167232377-d124eb49-71f4-4e02-bcd3-dcceb07035bc.png)
-
