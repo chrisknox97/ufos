@@ -71,7 +71,13 @@ Finally, we use our established function to create and display a new table conta
 
 ### Searching for Sightings
 
-With this new functionality a user can now search 
+With this new functionality a user can now search on this website by simply typing in their search parameter within one of the specified search bars on the right-hand side of the website. When the user either clicks away from the search bar or presses the ``Enter`` key, the website will filter for the specified parameters and display all matches. 
+
+* Without Search Filters
+
+* With One Search Filter
+
+* With Multiple Search Filters
 
 ## Celestial Summary 
 
