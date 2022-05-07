@@ -73,18 +73,28 @@ Finally, we use our established function to create and display a new table conta
 
 With this new functionality a user can now search on this website by simply typing in their search parameter within one of the specified search bars on the right-hand side of the website. When the user either clicks away from the search bar or presses the ``Enter`` key, the website will filter for the specified parameters and display all matches. 
 
-* Without Search Filters
+#### Without Search Filters
 
 ![Deliverable](https://github.com/chrisknox97/ufos/blob/main/PNGs/without_search.png)
 
-* With One Search Filter
+#### With One Search Filter
+
+* Search Based On Shape
 
 ![Deliverable](https://github.com/chrisknox97/ufos/blob/main/PNGs/shape_search.png)
+
+* Search Based on State
+
 ![Deliverable](https://github.com/chrisknox97/ufos/blob/main/PNGs/state_search.png)
 
-* With Multiple Search Filters
+#### With Multiple Search Filters
+
+* Search Based on 5 Filters
 
 ![Deliverable](https://github.com/chrisknox97/ufos/blob/main/PNGs/multi_search.png)
+
+* Search Based on 4 Filters
+
 ![Deliverable](https://github.com/chrisknox97/ufos/blob/main/PNGs/multi_search_2.png)
 
 ## Celestial Summary 
