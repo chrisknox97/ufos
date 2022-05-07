@@ -2,7 +2,7 @@
 
 ## Otherworldly Overview
 
-### To create a website using ``HTML`` programming language that will allow its users to filter Unidentified Flying Object (UFO) sightings by the alleged sighting(s)' city, state, country, and shape. These search paremeters will be additional tool in narrowing down these sighting along with the website's previous date-based search functionality.
+### To create a website using ``HTML`` programming language that will allow its users to filter Unidentified Flying Object (UFO) sightings by the alleged sighting(s)' city, state, country, and shape. These search parameters will be additional tool in narrowing down these sighting along with the website's previous date-based search functionality.
 
 ## Astral Analysis
 
@@ -10,7 +10,7 @@
 
 * HTML File
 
-First, we had to update our ``index.html`` file  with our new search parameters: city, state, country, and shape.              
+First, we had to update our ``index.html`` file with our new search parameters: city, state, country, and shape.              
                 
                     </li>
                       <li class="list-group-item bg-dark">
@@ -41,7 +41,7 @@ Since our website would be handling five filters instead of just one, we first h
 
     let filters = {};
  
-After creating this variable, we use ``D3`` to listen for a user's ``"input"`` (i.e. entering search paramenters into one of or multiple of our website's UFO filters. 
+After creating this variable, we use ``D3`` to listen for a user's ``"input"`` (i.e. entering search parameters into one of or multiple of our website's UFO filters. 
 
     d3.selectAll("input").on("change", updateFilters) 
 
@@ -83,7 +83,7 @@ With this new functionality a user can now search on this website by simply typi
 
 #### With One Search Filter
 
-* Search Based On Shape
+* Search Based on Shape
 
 ![Deliverable](https://github.com/chrisknox97/ufos/blob/main/PNGs/shape_search.png)
 
@@ -103,4 +103,30 @@ With this new functionality a user can now search on this website by simply typi
 
 ## Celestial Summary 
 
-###
+### Drawbacks
+
+While the new search filters and functionalities implemented represent an improvement for users; drawbacks remain for this design and a few notable issues are listed below:
+
+* Case Sensitive Input for Filters 
+
+Should a user wish to search for UFO sightings in the United States but type ``US`` instead of ``us`` they would receive zero results.
+
+* No Keywords
+
+Similarly, if a user search for ``American`` UFO sightings or UFO sightings in ``usa``, they would also receive zero results. 
+
+* Limited Date Search
+
+Another issue arises with the date parameter with the filter only allowing users to search for a specific day rather than a week or any other timeframe greater than daily. 
+
+### Recommendations
+
+As a result of these drawbacks, I would try to implement the following recommendations (mentioned above) in a future update of the website: 
+
+* Eliminate Case Sensitivity for Filter Inputs
+* Allow For Filter to Recognize Commonly Associated Words and Phrases
+* Allow For Ranges in Dates
+
+In addition, it might be helpful to allow users to see all the UFO sightings of each day plotted on a map; and/or include timestamps for sightings to track the alleged UFO'S trajectory across multiple areas. 
+![image](https://user-images.githubusercontent.com/99383875/167232377-d124eb49-71f4-4e02-bcd3-dcceb07035bc.png)
+
