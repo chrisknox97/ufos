@@ -71,7 +71,7 @@ Finally, we use our established function to create and display a new table conta
 
       filterTable();
       
-The JavaScript file where this portion of code exists can be found [here.](https://github.com/chrisknox97/ufos/blob/main/app.js)
+The JavaScript file where this portion of code exists can be found [here.](https://github.com/chrisknox97/ufos/blob/main/static/js/app.js)
 
 ### Searching for Sightings
 
